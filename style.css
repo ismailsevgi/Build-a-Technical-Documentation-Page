@@ -34,6 +34,7 @@ body p {
 
 #darkMode img {
     color: white;
+    cursor: pointer;
 }
 
 #navbar {
@@ -72,6 +73,7 @@ background-color: rgba(0, 0, 0, 0.26);
     flex-wrap: wrap;
     border-right: none;
     border-top: none;
+    color: black;
     
        
 }
